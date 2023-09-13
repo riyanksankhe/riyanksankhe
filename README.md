@@ -25,4 +25,7 @@
   <a href="https://www.example.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/riyanksankhe/riyanksankhe/assets/138203213/ed8ef1a1-ac1b-47ab-ba16-e1ff08b0eba5" alt="Tableau" width="40" height="40"/>  
   </a>
+  &nbsp;
+  <a href="https://www.example.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/riyanksankhe/riyanksankhe/assets/138203213/b47c8139-f5bf-4312-8253-bd73195fb6a0" alt="Python" width="40" height="40"/>
 </p>
